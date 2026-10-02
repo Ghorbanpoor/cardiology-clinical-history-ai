@@ -34,12 +34,12 @@ cardiology-clinical-history-ai/
     └── devcontainer.json
 🚀 Running in GitHub Codespaces
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/cardiology-clinical-history-ai.git
+git clone (https://github.com/Ghorbanpoor/cardiology-clinical-history-ai.git)
 cd cardiology-clinical-history-ai
 2. Install dependencies
 pip install -r requirements.txt
 3. Start the application
-streamlit run app.py --server.address 0.0.0.0
+streamlit run main.py --server.address 0.0.0.0
 
 Streamlit will run the application on port 8501.
 
